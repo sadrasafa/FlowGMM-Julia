@@ -19,4 +19,4 @@ Downlaod the files in the following Google Drive links:
 After downloading the datasets, make three directories named `toy_datasets`, `uci_datasets`,and `nlp_datasets` and move the downloaded datasets to the appropriate folders without any subdirectories.
 
 # Results
-The experiments are implemented in [this notebook](https://github.com/sadrasafa/Comp541-Project/blob/master/FlowGMM.ipynb).
+The experiments are implemented in [this notebook](https://github.com/sadrasafa/FlowGMM-Julia/blob/master/FlowGMM.ipynb).
