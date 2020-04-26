@@ -1,4 +1,4 @@
-# Comp541-Project
+# FlowGMM
 
 This repository contains the Julia implementation of the [Semi-Supervised Learning with Normalizing Flows](https://arxiv.org/abs/1912.13025) paper.
 
