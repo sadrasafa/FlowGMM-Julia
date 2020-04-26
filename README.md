@@ -17,3 +17,6 @@ Downlaod the files in the following Google Drive links:
 (This data has been obtained using [this script](https://github.com/izmailovpavel/flowgmm/blob/public/data/nlp_datasets/get_text_classification_data.sh) from the original PyTorch repository. BERT Embeddings of the data has been computed afterwards.)
 
 After downloading the datasets, make three directories named `toy_datasets`, `uci_datasets`,and `nlp_datasets` and move the downloaded datasets to the appropriate folders without any subdirectories.
+
+# Results
+The experiments are implemented in [this notebook](https://github.com/sadrasafa/Comp541-Project/blob/master/FlowGMM.ipynb]).
