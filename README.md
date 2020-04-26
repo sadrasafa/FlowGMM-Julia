@@ -4,7 +4,7 @@ This repository contains the Julia implementation of the [Semi-Supervised Learni
 
 (PyTorch implementation is [here](https://github.com/izmailovpavel/flowgmm/))
 
-# Downloading Data
+# Downloading Datasets
 Downlaod the files in the following Google Drive links:
 
 
