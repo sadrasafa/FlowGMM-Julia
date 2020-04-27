@@ -20,3 +20,22 @@ After downloading the datasets, make three directories named `toy_datasets`, `uc
 
 # Results
 The experiments are implemented in [this notebook](https://github.com/sadrasafa/FlowGMM-Julia/blob/master/FlowGMM.ipynb).
+
+
+# References
+```
+@article{izmailov2019semi,
+  title={Semi-Supervised Learning with Normalizing Flows},
+  author={Izmailov, Pavel and Kirichenko, Polina and Finzi, Marc and Wilson, Andrew Gordon},
+  journal={arXiv preprint arXiv:1912.13025},
+  year={2019}
+}
+```
+```
+@article{dinh2016density,
+  title={Density estimation using real nvp},
+  author={Dinh, Laurent and Sohl-Dickstein, Jascha and Bengio, Samy},
+  journal={arXiv preprint arXiv:1605.08803},
+  year={2016}
+}
+```
