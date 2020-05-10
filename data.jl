@@ -203,7 +203,7 @@ end
 
 function make_yahoo_answers_ssl()
     #train_data: bert_embeddings of training data (768x1400000) 
-    #train_labels: every datapoint is unlabeled, except for 200 points (50 from each class) (1x1400000)
+    #train_labels: every datapoint is unlabeled, except for 800 points (80 from each class) (1x1400000)
     #train_gt_labels: ground truth labels for training datapoints, can be used in calculating train accuracy (1x1400000)
     #test_data: bert embeddings of test data (768x60000)
     #test_labels: ground truth labeles for test datapoints (1x60000)
